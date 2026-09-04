@@ -5,6 +5,7 @@ const Title = ({ title, subTitle }) => {
         {title} <span>{subTitle}</span>
       </h2>
     </div>
-  );
-};
-export default Title;
+  )
+}
+
+export default Title

@@ -569,3 +569,8 @@ min-height:calc(100vh - 62px);
   font-size: 1.5rem;
   text-transform: uppercase;
 }
+
+.site-header {
+  position: relative;
+  z-index: 2;
+}

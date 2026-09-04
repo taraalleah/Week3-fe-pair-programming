@@ -1,7 +1,8 @@
+import PageLinks from './PageLinks'; 
 function Footer() {
   return (
     <footer className="section footer">
-      <PageLinks parentClass='footer-links' itemClass='footer-link' />
+      <PageLinks parentClass='footer-links' itemClass='footer-link' /> 
       <ul className="footer-icons">
         <li>
           <a

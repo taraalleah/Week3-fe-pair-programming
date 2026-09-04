@@ -10,4 +10,5 @@ const PageLinks = ({ parentClass, itemClass }) => {
     </ul>
   )
 }
+
 export default PageLinks
